@@ -39,7 +39,7 @@ Want your project listed here? Follow the guidelines below:
 3. Follow the existing formatting style exactly.
 4. Open a Pull Request with a clear title.
 
-## ⚖️ Reporting or Removal Requests
+### Reporting or Removal Requests
 
 If you believe a listed project contains malware, malicious code, or violates community standards:
 
