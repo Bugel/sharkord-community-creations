@@ -6,8 +6,8 @@ A curated list of community-created projects built around **Sharkord**.
 
 ## 📦 Clients
 
-- **Project Name** – Short description of what it does.  
-  🔗 [GitHub Repository](https://github.com/user/repo)
+- **Sweetshark Client** – A multi-server desktop client for Sharkord built with Electron.  
+  🔗 [GitHub Repository]([https://github.com/user/repo](https://github.com/Sweets-omg/Sweetshark-client))
 
 ---
 
